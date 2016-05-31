@@ -1,6 +1,8 @@
 rBiblia website locales
 =======================
 
+[![Build Status](https://travis-ci.org/rBiblia/website-locales.svg?branch=master)](https://travis-ci.org/rBiblia/website-locales)
+
 Localisation repository for [rBiblia](http://rbiblia.toborek.info) website.
 
 All contributions are welcome.
