@@ -13,7 +13,7 @@ before_script:
 script: find . -name "*.xml" -type f -print0 | xargs -0 xmllint --noout
 
 # disable mail notifications
-notification:
+notifications:
   email: false
 
 # reduce depth (history) of git checkout
