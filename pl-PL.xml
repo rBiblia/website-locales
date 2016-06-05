@@ -57,9 +57,6 @@
     <string id="a38b8064d26f863aed0a76f02e8060e4">
         <![CDATA[Cóż, nie jest to prosta sprawa, gdyż z jednej strony mamy do czynienia ze "słowem Bożym", które ma być głoszone po całej Ziemi. Z drugiej strony zebranie zespołu doświadczonych tłumaczy, zużyty czas oraz przygotowanie tekstu o wysokiej jakości jest bardzo kosztowne, a jak mówi Biblia: "Godzien jest robotnik zapłaty swojej" [1Tym 5:18]. Z tego względu zdecydowałem się podzielić tłumaczenia na autoryzowane (dostępne legalnie na podstawie zgody autora lub ze względu na wygaśnięcie praw autorskich - domena publiczna) oraz nieautoryzowane, które nie zostały jeszcze zweryfikowane przez ich wydawcę. Pracując nad programem, będę starał się uzyskać zgodę na w pełni autoryzowane użycie tekstów. Do tego czasu ewentualne kwestie moralne postanowiłem przerzucić na użytkownika, który sam decyduje o instalacji tłumaczeń na swoim komputerze (wraz z programem nie są rozpowszechniane żadne tłumaczenia).]]>
     </string>
-    <string id="90e7323e374093892795b7aa29affadf">
-        <![CDATA[Repozytorium zawiera aktualnie <count> tłumaczeń (<list_start>zobacz listę<list_end>). Więcej informacji na temat historii polskich przekładów znajdziesz w serwisie poświęconemu <anthology_start>antologii polskich przekładów po II wojnie światowej<anthology_end>.]]>
-    </string>
     <string id="f6fde347660eacd8801c943612eca841">
         <![CDATA[Aktualna wersja]]>
     </string>
@@ -119,5 +116,8 @@
     </string>
     <string id="e63be369b688f4d07c2e948ff947e55d">
         <![CDATA[Tłumaczenia dostępne do pobrania z repozytorium programu:]]>
+    </string>
+    <string id="b438ed6cdabf96485d7d1a392d0c5dcf">
+        <![CDATA[Repozytorium zawiera aktualnie <count> tłumaczeń (<list_start>zobacz listę<list_end>).]]>
     </string>
 </localisation>
