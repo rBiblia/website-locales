@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localisation>
+    <string id="bd490f4b1d73c0f8057256772b569c69">
+        <![CDATA[rBiblia - a free program for browsing Bible translations]]>
+    </string>
+    <string id="845b40f37ce2fb98e02aabfe5f8ab197">
+        <![CDATA[rBiblia - your way to read the Bible]]>
+    </string>
+    <string id="3383b60e82d66e52e79be4c920e4d527">
+        <![CDATA[This website lets you download the newest version of the rBiblia program in which you can comfortably browse through Bible translations. The program has very low requirements and is available for free on machines with Windows. The major advantages of the program are:]]>
+    </string>
+    <string id="4d2c4a48e4d0911e22593fd8ba082845">
+        <![CDATA[quick access to many Bible translations in different languages]]>
+    </string>
+    <string id="7feb865949dead1dfc04fc8435e9cbe7">
+        <![CDATA[search through verses using any number of phrases]]>
+    </string>
+    <string id="3e162681490fc96808c9995835963a17">
+        <![CDATA[easy lookup of the same verse in different translations]]>
+    </string>
+    <string id="7cc82a762cdfb2b64db1acc2fbcf8147">
+        <![CDATA[browsing multiple translations at the same time]]>
+    </string>
+    <string id="daecbc68d7b9dbd9cd4935a444920b9d">
+        <![CDATA[ability to change default colours and font size]]>
+    </string>
+    <string id="62c167ce6192b9eae37381a5380f74f0">
+        <![CDATA[simple download and removal of translations from the program]]>
+    </string>
+    <string id="923e37d8b82ea88864eb23f5b58526bf">
+        <![CDATA[copying a verse to clipboard]]>
+    </string>
+    <string id="4cbb0fb77750e0bccf2512adf4e04047">
+        <![CDATA[creation of complex bookmarks for chosen places in the translation]]>
+    </string>
+    <string id="b5689bb1f1bf2de8c187059df474c745">
+        <![CDATA[access to a dictionary of Biblical terms]]>
+    </string>
+    <string id="35fd620f138410ec44ade50fd30d0adf">
+        <![CDATA[automatic program updates]]>
+    </string>
+    <string id="ee5b169ce80db4d9e98a4952c5e873a5">
+        <![CDATA[work only with the translations that you are interested in]]>
+    </string>
+    <string id="4aa79af2589987fb7444b2842feafea8">
+        <![CDATA[small size and low hardware requirements]]>
+    </string>
+    <string id="cd4b8142be1c3cbfa79b33fa93711f39">
+        <![CDATA[support for different language versions (Polish and English by default)]]>
+    </string>
+    <string id="4cf35a42fb69f0b8c096a0d1175b88be">
+        <![CDATA[available for free :-)]]>
+    </string>
+    <string id="5d7375f5daa882a98a9c5f16686fe602">
+        <![CDATA[What about the legal status of the translations used in the program?]]>
+    </string>
+    <string id="a38b8064d26f863aed0a76f02e8060e4">
+        <![CDATA[This is not an easy question, because on the one hand we are talking about "God's word" which we should preach to the whole world. On the other hand, gathering a group of experienced translators and the time devoted to preparing a high quality text is costly, and as the Bible says: "The labourer is worthy of his reward" [1 Timothy 5:18]. For this reason I have decided to divide the translations into authorised ones (available legally based on the author's assent or due to expiration of copyright), and unauthorised ones, which have not been verified by their publisher. During the work on the program I will attempt to obtain the assent to fully authorised use of these texts. Until that time I have decided to shift the moral question to the users, who can decide for themselves if they want to install these translations on their computer (no translations are automatically bundled with the program).]]>
+    </string>
+    <string id="f6fde347660eacd8801c943612eca841">
+        <![CDATA[Current version]]>
+    </string>
+    <string id="f029a7278730cdf8811169a47a5d6092">
+        <![CDATA[The most recent versions of the program is: <version>]]>
+    </string>
+    <string id="ed8ae6640dd2bf572156dc2946aad46f">
+        <![CDATA[Download size: <size>]]>
+    </string>
+    <string id="508935c2ddc4713e35c14a7aea71bba9">
+        <![CDATA[Download the program]]>
+    </string>
+    <string id="b578f0bef88026a06887fb9d13cf5778">
+        <![CDATA[Screenshots]]>
+    </string>
+    <string id="c7336d2be1a81c162327956ccddf7a21">
+        <![CDATA[Here I have prepared some screenshots which present the program on a computer running Windows 8:]]>
+    </string>
+    <string id="46cb876414f888d3bdff846f23246655">
+        <![CDATA[Hardware requirements]]>
+    </string>
+    <string id="7042f544ac03cff92019c21988380f20">
+        <![CDATA[Any computer with Windows operating system (XP till 10) and the .NET Framework 3.5/4 environment (available by default since Windows 7 - in case of an older system you need to install it from the <dotnet_start>producer's website<dotnet_end>). To download new translations you need an internet connection. Installing and running the program <u>dooes not require</u> administrator rights.]]>
+    </string>
+    <string id="08ad2bf686cd7dfc7b1bcb911920d37a">
+        <![CDATA[Support and development of the program]]>
+    </string>
+    <string id="84279cea14bfe700d614bbe129bad81b">
+        <![CDATA[If you've found a mistake in the program or have an idea for an improvement, write to me. You can do it through the <contact_start>contact form<contact_end>.]]>
+    </string>
+    <string id="40d93cd4001d9ca3a3f28fa1dbb3dde1">
+        <![CDATA[I support and develop this program using my own means, because I'm eager to learn the word of God - just like you :-) .]]>
+    </string>
+    <string id="1e5b5a99c429d26b61ca8a20a0bb6578">
+        <![CDATA[Support the development of the program]]>
+    </string>
+    <string id="2d23d300f093a19f172cf4a8a49ebb97">
+        <![CDATA[If you can make a <donation_start>small donation<donation_end> for the maintenance of the program or for one of the causes I collect for, I'll be very grateful.]]>
+    </string>
+    <string id="1893586f42a9364171482f43b95f7530">
+        <![CDATA[The program is recommended by:]]>
+    </string>
+    <string id="a48f22d226c06d379d6b5e2900bf3d92">
+        <![CDATA[Free program for browsing Bible translations]]>
+    </string>
+    <string id="436f1f2f694e5188332433005cd23277">
+        <![CDATA[Change languages:]]>
+    </string>
+    <string id="de128178f3d20eff46784cd27fa442cc">
+        <![CDATA[Help me translate <website_start>this website<website_end> and <locales_start>other language resources<locales_end> for the program]]>
+    </string>
+    <string id="e9414e6408b428cc43629500dc7a8fbd">
+        <![CDATA[rBiblia - translations available in the program]]>
+    </string>
+    <string id="7135c528c163a5b3d640f957599be47d">
+        <![CDATA[Translations available in the rBiblia repository]]>
+    </string>
+    <string id="e63be369b688f4d07c2e948ff947e55d">
+        <![CDATA[Translations available for download from the rBiblia repository:]]>
+    </string>
+    <string id="b438ed6cdabf96485d7d1a392d0c5dcf">
+        <![CDATA[The repository currently contains <count> translations (<list_start>see the list<list_end>).]]>
+    </string>
+</localisation>
