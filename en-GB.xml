@@ -7,7 +7,7 @@
         <![CDATA[rBiblia - your way to read the Bible]]>
     </string>
     <string id="3383b60e82d66e52e79be4c920e4d527">
-        <![CDATA[This website lets you download the newest version of the rBiblia program in which you can comfortably browse through Bible translations. The program has very low requirements and is available for free on machines with Windows. The major advantages of the program are:]]>
+        <![CDATA[This website lets you download the newest version of the rBiblia application in which you can comfortably browse through Bible translations. The program has very low requirements and is available for free on machines with Windows. The major advantages of the program are:]]>
     </string>
     <string id="4d2c4a48e4d0911e22593fd8ba082845">
         <![CDATA[quick access to many Bible translations in different languages]]>
@@ -79,7 +79,7 @@
         <![CDATA[Hardware requirements]]>
     </string>
     <string id="7042f544ac03cff92019c21988380f20">
-        <![CDATA[Any computer with Windows operating system (XP till 10) and the .NET Framework 3.5/4 environment (available by default since Windows 7 - in case of an older system you need to install it from the <dotnet_start>producer's website<dotnet_end>). To download new translations you need an internet connection. Installing and running the program <u>dooes not require</u> administrator rights.]]>
+        <![CDATA[Any computer with Windows operating system (XP till 10) and the .NET Framework 3.5/4 environment (available by default since Windows 7 - in case of an older system you need to install it from the <dotnet_start>producer's website<dotnet_end>). To download new translations you need an internet connection. Installing and running the program <u>does not require</u> administrator rights.]]>
     </string>
     <string id="08ad2bf686cd7dfc7b1bcb911920d37a">
         <![CDATA[Support and development of the program]]>
@@ -88,7 +88,7 @@
         <![CDATA[If you've found a mistake in the program or have an idea for an improvement, write to me. You can do it through the <contact_start>contact form<contact_end>.]]>
     </string>
     <string id="40d93cd4001d9ca3a3f28fa1dbb3dde1">
-        <![CDATA[I support and develop this program using my own means, because I'm eager to learn the word of God - just like you :-) .]]>
+        <![CDATA[I support and develop this program using my own means, because I'm eager to learn the word of God - just like you :-)]]>
     </string>
     <string id="1e5b5a99c429d26b61ca8a20a0bb6578">
         <![CDATA[Support the development of the program]]>
@@ -103,7 +103,7 @@
         <![CDATA[Free program for browsing Bible translations]]>
     </string>
     <string id="436f1f2f694e5188332433005cd23277">
-        <![CDATA[Change languages:]]>
+        <![CDATA[Change language:]]>
     </string>
     <string id="de128178f3d20eff46784cd27fa442cc">
         <![CDATA[Help me translate <website_start>this website<website_end> and <locales_start>other language resources<locales_end> for the program]]>
@@ -118,6 +118,6 @@
         <![CDATA[Translations available for download from the rBiblia repository:]]>
     </string>
     <string id="b438ed6cdabf96485d7d1a392d0c5dcf">
-        <![CDATA[The repository currently contains <count> translations (<list_start>see the list<list_end>).]]>
+        <![CDATA[The repository currently contains <count> translations (<list_start>see the full list<list_end>).]]>
     </string>
 </localisation>
