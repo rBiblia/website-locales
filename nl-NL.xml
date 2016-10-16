@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<localisation>
+    <string id="bd490f4b1d73c0f8057256772b569c69">
+        <![CDATA[rBiblia – gratis programma voor het bekijken van Bijbelvertalingen]]>
+    </string>
+    <string id="845b40f37ce2fb98e02aabfe5f8ab197">
+        <![CDATA[Bijbel op je eigen manier]]>
+    </string>
+    <string id="3383b60e82d66e52e79be4c920e4d527">
+        <![CDATA[Vanaf deze site kunt u de nieuwste versies van de Bijbel, handig browsen en downloaden van Bijbelvertalingen. Het programma heeft een lage eisen en is gratis op computers met Windows beschikbaar. De belangrijkste voordelen van het gebruik van het programma:]]>
+    </string>
+    <string id="4d2c4a48e4d0911e22593fd8ba082845">
+        <![CDATA[snelle toegang tot vele Bijbelvertalingen in verschillende talen]]>
+    </string>
+    <string id="7feb865949dead1dfc04fc8435e9cbe7">
+        <![CDATA[zoek verzen in termen van een hoeveelheid zinnen]]>
+    </string>
+    <string id="3e162681490fc96808c9995835963a17">
+        <![CDATA[gemakkelijk om deze zelfde verzen in verschillende vertalingen te lokaliseren]]>
+    </string>
+    <string id="7cc82a762cdfb2b64db1acc2fbcf8147">
+        <![CDATA[het bekijken van meerdere vertalingen tegelijk]]>
+    </string>
+    <string id="daecbc68d7b9dbd9cd4935a444920b9d">
+        <![CDATA[de mogelijkheid om de standaard kleuren en lettergrootte te veranderen]]>
+    </string>
+    <string id="62c167ce6192b9eae37381a5380f74f0">
+        <![CDATA[makkelijk te downloaden en te verwijderen nieuwe vertalingen uit het programma]]>
+    </string>
+    <string id="923e37d8b82ea88864eb23f5b58526bf">
+        <![CDATA[de mogelijkheid om verzen te kopiëren naar het klembord]]>
+    </string>
+    <string id="4cbb0fb77750e0bccf2512adf4e04047">
+        <![CDATA[het creëren van een bookmark op geselecteerde bestemmingen/plaatsen in de vertaling]]>
+    </string>
+    <string id="b5689bb1f1bf2de8c187059df474c745">
+        <![CDATA[toegang tot de verklarende woordenlijst van Bijbel]]>
+    </string>
+    <string id="35fd620f138410ec44ade50fd30d0adf">
+        <![CDATA[automatische programma-updates]]>
+    </string>
+    <string id="ee5b169ce80db4d9e98a4952c5e873a5">
+        <![CDATA[werken met alleen de vertalingen waarin jij bent geïnteresseerd]]>
+    </string>
+    <string id="4aa79af2589987fb7444b2842feafea8">
+        <![CDATA[klein formaat en lage hardware-eisen]]>
+    </string>
+    <string id="83486f4127842fc816ff952399040df6">
+        <![CDATA[ondersteuning verschillende taalversies (standaard Pools, Engels, Russisch)]]>
+    </string>
+    <string id="4cf35a42fb69f0b8c096a0d1175b88be">
+        <![CDATA[gratis beschikbaar :-)]]>
+    </string>
+    <string id="5d7375f5daa882a98a9c5f16686fe602">
+        <![CDATA[Het lijkt erop dat de kwestie van de legaliteit van de vertalingen die in het programma?]]>
+    </string>
+    <string id="a38b8064d26f863aed0a76f02e8060e4">
+        <![CDATA[Nou, dit is geen eenvoudige zaak, aan de ene kant hebben we te maken met "het woord van God", die moet worden gepredikt over de hele aarde. Aan de andere kant, het verzamelen van een team van ervaren vertalers, gespendeerde tijd en voorbereiding van een tekst van hoge kwaliteit is erg duur, en zoals de Bijbel zegt: "De arbeider is zijn loon waard" [1 Timotheüs 5:18]. Om deze reden heb ik besloten om vertaling te verdelen in geoorloofde (legaal beschikbaar op basis van de toestemming van de auteur of het verstrijken van het auteursrecht - het publieke domein), en ongeoorloofde, die nog niet zijn gecontroleerd door de uitgever. Tijdens het werken aan het programma, zal ik proberen om toestemming te krijgen voor een volledig geautoriseerd tekst. Tot die tijd, elke morele kwesties besloten om door te geven aan de gebruiker, die op de installatie op uw computer beslist (met het programma zijn niet verspreiden  geen vertalingen).]]>
+    </string>
+    <string id="f6fde347660eacd8801c943612eca841">
+        <![CDATA[Actuele versie]]>
+    </string>
+    <string id="f029a7278730cdf8811169a47a5d6092">
+        <![CDATA[De nieuwste versie is: <version>]]>
+    </string>
+    <string id="ed8ae6640dd2bf572156dc2946aad46f">
+        <![CDATA[Download size: <size>]]>
+    </string>
+    <string id="508935c2ddc4713e35c14a7aea71bba9">
+        <![CDATA[Download]]>
+    </string>
+    <string id="b578f0bef88026a06887fb9d13cf5778">
+        <![CDATA[Screenshots]]>
+    </string>
+    <string id="c7336d2be1a81c162327956ccddf7a21">
+        <![CDATA[Op dit punt, maak ik enkele screenshots die de werking van het programma op een computer met Windows 8 tonen:]]>
+    </string>
+    <string id="46cb876414f888d3bdff846f23246655">
+        <![CDATA[Hardwarevereisten]]>
+    </string>
+    <string id="7042f544ac03cff92019c21988380f20">
+        <![CDATA[Elke computer met Windows (vanaf XP tot en met 10) en geïnstalleerd .NET Framework 3.5 / 4 (standaard beschikbaar op Windows 7 - in het geval van oudere systemen dient dit opnieuw geïnstalleerd te worden door deze te downloaden van de <dotnet_start>fabrikant<dotnet_end>). Download de nieuwe vertalingen nodig zijn verbinding met het internet. Installatie en inbedrijfstelling programma, <u>niet vereist</u> Permission Administrator.]]>
+    </string>
+    <string id="08ad2bf686cd7dfc7b1bcb911920d37a">
+        <![CDATA[Ondersteuning en ontwikkelingsprogramma]]>
+    </string>
+    <string id="84279cea14bfe700d614bbe129bad81b">
+        <![CDATA[Als u een fout in het programma heeft gevonden of je hebt een idee om het te verbeteren, kunt u mij inlichten. U kunt mij contacteren door gebruik te maken van <contact_start>contactformulier<contact_end>.]]>
+    </string>
+    <string id="40d93cd4001d9ca3a3f28fa1dbb3dde1">
+        <![CDATA[Het programma onderhoudt en ontwikkelt zijn eigen middelen, want zoals jij :-) ben ik geïnteresseerd in het leren van het woord van God.]]>
+    </string>
+    <string id="1e5b5a99c429d26b61ca8a20a0bb6578">
+        <![CDATA[Ondersteun ontwikkelingsprogramma]]>
+    </string>
+    <string id="2d23d300f093a19f172cf4a8a49ebb97">
+        <![CDATA[Maar als je wilt doneren <donation_start>kleine donatie<donation_end> om het programma of een van de doeleinden waarvoor we geld in te zamelen te ondersteunen, zal ik zeer dankbaar zijn.]]>
+    </string>
+    <string id="a48f22d226c06d379d6b5e2900bf3d92">
+        <![CDATA[Gratis programma voor het bekijken van Bijbelvertalingen]]>
+    </string>
+    <string id="436f1f2f694e5188332433005cd23277">
+        <![CDATA[Verander taalversie:]]>
+    </string>
+    <string id="de128178f3d20eff46784cd27fa442cc">
+        <![CDATA[Help me te vertalen <website_start>deze pagina<website_end> en <locales_start>resterende taalbronnen<locales_end> programma]]>
+    </string>
+    <string id="e9414e6408b428cc43629500dc7a8fbd">
+        <![CDATA[rBiblia - beschikbare vertalingen in het programma]]>
+    </string>
+    <string id="7135c528c163a5b3d640f957599be47d">
+        <![CDATA[Vertalingen beschikbaar in de repository-programma rBiblia]]>
+    </string>
+    <string id="e63be369b688f4d07c2e948ff947e55d">
+        <![CDATA[Vertalingen beschikbaar om te downloaden van de repository-programma:]]>
+    </string>
+    <string id="b438ed6cdabf96485d7d1a392d0c5dcf">
+        <![CDATA[De repository bevat momenteel <count> vertalingen (<list_start>zie een lijst van<list_end>.)]]>
+    </string>
+</localisation>
