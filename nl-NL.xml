@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <localisation>
     <string id="bd490f4b1d73c0f8057256772b569c69">
         <![CDATA[rBiblia – gratis programma voor het bekijken van Bijbelvertalingen]]>
@@ -116,5 +116,11 @@
     </string>
     <string id="b438ed6cdabf96485d7d1a392d0c5dcf">
         <![CDATA[De repository bevat momenteel <count> vertalingen (<list_start>zie een lijst van<list_end>.)]]>
+    </string>
+    <string id="d7cf3f110f672a72ed9be257aa5a33e4">
+        <![CDATA[Dostępne tłumaczenia]]>
+    </string>
+    <string id="92316d41c56daf9140fc04509aecaaca">
+        <![CDATA[Kontakt]]>
     </string>
 </localisation>
