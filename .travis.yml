@@ -6,6 +6,11 @@ branches:
   only:
     - master
 
+addons:
+  apt:
+    packages:
+      - libxml2-utils
+
 before_script:
     - xmllint --version
 
@@ -18,4 +23,4 @@ notifications:
 
 # reduce depth (history) of git checkout
 git:
-  depth: 30
+  depth: 1
