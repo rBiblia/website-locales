@@ -7,11 +7,7 @@
         <![CDATA[rBiblia - o seu jeito de ler a Bíblia]]>
     </string>
     <string id="3383b60e82d66e52e79be4c920e4d527">
-<<<<<<< HEAD
-        <![CDATA[Este site permite que você baixe a versão mais recente do aplicativo rBiblia onde você pode confortavelmente navegar em diferenets traduções da Bíblia. O programa tem requerimentos mínimos e está disponível gratuitamente para o Windows. Suas principais vantagens são:]]>
-=======
         <![CDATA[Este site permite que você baixe a versão mais recente do aplicativo rBiblia onde você pode confortavelmente navegar por diferenets traduções da Bíblia. O programa tem requerimentos mínimos e está disponível gratuitamente para o Windows. Suas principais vantagens são:]]>
->>>>>>> wip
     </string>
     <string id="4d2c4a48e4d0911e22593fd8ba082845">
         <![CDATA[rápido acesso a diversas traduções da Bíblia em diferentes línguas]]>
@@ -65,15 +61,6 @@
         <![CDATA[Versão atual]]>
     </string>
     <string id="f029a7278730cdf8811169a47a5d6092">
-<<<<<<< HEAD
-        <![CDATA[The most recent versions of the program is: <version>]]>
-    </string>
-    <string id="ed8ae6640dd2bf572156dc2946aad46f">
-        <![CDATA[Download size: <size>]]>
-    </string>
-    <string id="508935c2ddc4713e35c14a7aea71bba9">
-        <![CDATA[Download the program]]>
-=======
         <![CDATA[A versão mais recente do programa é: <version>]]>
     </string>
     <string id="ed8ae6640dd2bf572156dc2946aad46f">
@@ -81,63 +68,11 @@
     </string>
     <string id="508935c2ddc4713e35c14a7aea71bba9">
         <![CDATA[Baixe o programa]]>
->>>>>>> wip
     </string>
     <string id="b578f0bef88026a06887fb9d13cf5778">
         <![CDATA[Screenshots]]>
     </string>
     <string id="e1f17d4927c35e4f3dc9acf175a6d0f6">
-<<<<<<< HEAD
-        <![CDATA[Here I have prepared some screenshots which present the program on a computer running Windows 10:]]>
-    </string>
-    <string id="46cb876414f888d3bdff846f23246655">
-        <![CDATA[Hardware requirements]]>
-    </string>
-    <string id="7042f544ac03cff92019c21988380f20">
-        <![CDATA[Any computer with Windows operating system (XP till 10) and the .NET Framework 3.5/4 environment (available by default since Windows 7 - in case of an older system you need to install it from the <dotnet_start>producer's website<dotnet_end>). To download new translations you need an internet connection. Installing and running the program <u>does not require</u> administrator rights.]]>
-    </string>
-    <string id="08ad2bf686cd7dfc7b1bcb911920d37a">
-        <![CDATA[Support and development of the program]]>
-    </string>
-    <string id="84279cea14bfe700d614bbe129bad81b">
-        <![CDATA[If you've found a mistake in the program or have an idea for an improvement, write to me. You can do it through the <contact_start>contact form<contact_end>.]]>
-    </string>
-    <string id="40d93cd4001d9ca3a3f28fa1dbb3dde1">
-        <![CDATA[I support and develop this program using my own means, because I'm eager to learn the word of God - just like you :-)]]>
-    </string>
-    <string id="1e5b5a99c429d26b61ca8a20a0bb6578">
-        <![CDATA[Support the development of the program]]>
-    </string>
-    <string id="2d23d300f093a19f172cf4a8a49ebb97">
-        <![CDATA[If you can make a <donation_start>small donation<donation_end> for the maintenance of the program or for one of the causes I collect for, I'll be very grateful.]]>
-    </string>
-    <string id="a48f22d226c06d379d6b5e2900bf3d92">
-        <![CDATA[Free program for browsing Bible translations]]>
-    </string>
-    <string id="436f1f2f694e5188332433005cd23277">
-        <![CDATA[Change language:]]>
-    </string>
-    <string id="de128178f3d20eff46784cd27fa442cc">
-        <![CDATA[Help me translate <website_start>this website<website_end> and <locales_start>other language resources<locales_end> for the program]]>
-    </string>
-    <string id="e9414e6408b428cc43629500dc7a8fbd">
-        <![CDATA[rBiblia - translations available in the program]]>
-    </string>
-    <string id="7135c528c163a5b3d640f957599be47d">
-        <![CDATA[Translations available in the rBiblia repository]]>
-    </string>
-    <string id="e63be369b688f4d07c2e948ff947e55d">
-        <![CDATA[Translations available for download from the rBiblia repository:]]>
-    </string>
-    <string id="b438ed6cdabf96485d7d1a392d0c5dcf">
-        <![CDATA[The repository currently contains <count> translations (<list_start>see the full list<list_end>).]]>
-    </string>
-    <string id="d7cf3f110f672a72ed9be257aa5a33e4">
-        <![CDATA[Available translations]]>
-    </string>
-    <string id="92316d41c56daf9140fc04509aecaaca">
-        <![CDATA[Contact]]>
-=======
         <![CDATA[Aqui preparei algumas imagens do programa rodando em um PC com Windows 10:]]>
     </string>
     <string id="46cb876414f888d3bdff846f23246655">
@@ -177,11 +112,9 @@
         <![CDATA[Traduções disponíveis no repositório rBiblia]]>
     </string>
     <string id="e63be369b688f4d07c2e948ff947e55d">
-        <![CDATA[Translations available for download from the rBiblia repository:]]>
         <![CDATA[Traduções disponíveis para download no repositório rBiblia:]]>
     </string>
     <string id="b438ed6cdabf96485d7d1a392d0c5dcf">
-        <![CDATA[The repository currently contains <count> translations (<list_start>see the full list<list_end>).]]>
         <![CDATA[O repositório atualmente contém <count> traduções (<list_start>veja a lista completa<list_end>).]]>
     </string>
     <string id="d7cf3f110f672a72ed9be257aa5a33e4">
@@ -189,6 +122,5 @@
     </string>
     <string id="92316d41c56daf9140fc04509aecaaca">
         <![CDATA[Contato]]>
->>>>>>> wip
     </string>
 </localisation>
