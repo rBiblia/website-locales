@@ -1,126 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <localisation>
-    <string id="bd490f4b1d73c0f8057256772b569c69">
+    <string id="index_title">
         <![CDATA[rBiblia - um programa gratuito para navegar traduções da Bíblia ]]>
     </string>
-    <string id="845b40f37ce2fb98e02aabfe5f8ab197">
+    <string id="index_description">
         <![CDATA[rBiblia - o seu jeito de ler a Bíblia]]>
     </string>
-    <string id="3383b60e82d66e52e79be4c920e4d527">
-        <![CDATA[Este site permite que você baixe a versão mais recente do aplicativo rBiblia onde você pode confortavelmente navegar por diferenets traduções da Bíblia. O programa tem requerimentos mínimos e está disponível gratuitamente para o Windows. Suas principais vantagens são:]]>
-    </string>
-    <string id="4d2c4a48e4d0911e22593fd8ba082845">
+    <string id="index_features_quick_access">
         <![CDATA[rápido acesso a diversas traduções da Bíblia em diferentes línguas]]>
     </string>
-    <string id="7feb865949dead1dfc04fc8435e9cbe7">
-        <![CDATA[pesquisa de versos utilizando qualquer número de frases]]>
-    </string>
-    <string id="3e162681490fc96808c9995835963a17">
+    <string id="index_features_easy_compare">
         <![CDATA[fácil pesquisa do mesmo verso em línguas diferentes]]>
     </string>
-    <string id="7cc82a762cdfb2b64db1acc2fbcf8147">
+    <string id="index_features_browse_them_all">
         <![CDATA[nevagar diferentes traduções ao mesmo tempo]]>
     </string>
-    <string id="daecbc68d7b9dbd9cd4935a444920b9d">
+    <string id="index_features_view_customisation">
         <![CDATA[habilidade de mudar as cores e tamanho de fonte padrão]]>
     </string>
-    <string id="62c167ce6192b9eae37381a5380f74f0">
+    <string id="index_features_repository_management">
         <![CDATA[baixar e/ou remover traduções de forma simples do programa]]>
     </string>
-    <string id="923e37d8b82ea88864eb23f5b58526bf">
+    <string id="index_features_clipboard_copy">
         <![CDATA[copiar um verso para a prancheta]]>
     </string>
-    <string id="4cbb0fb77750e0bccf2512adf4e04047">
+    <string id="index_features_bookmarks">
         <![CDATA[criar favoritos complexos em locais específicos da tradução]]>
     </string>
-    <string id="b5689bb1f1bf2de8c187059df474c745">
+    <string id="index_features_dictionary">
         <![CDATA[acesso a um dicionário de termos Bíblicos]]>
     </string>
-    <string id="35fd620f138410ec44ade50fd30d0adf">
+    <string id="index_features_updates">
         <![CDATA[atualizações automáticas]]>
     </string>
-    <string id="ee5b169ce80db4d9e98a4952c5e873a5">
+    <string id="index_features_you_rule">
         <![CDATA[foco apenas nas traduções em que você está interessado]]>
     </string>
-    <string id="4aa79af2589987fb7444b2842feafea8">
+    <string id="index_features_low_requirements">
         <![CDATA[leve e com baixos requerimentos de software]]>
     </string>
-    <string id="83486f4127842fc816ff952399040df6">
+    <string id="index_features_multi_language">
         <![CDATA[suporte para diferentes línguas (Polonês, Inglês e Russo por padrão)]]>
     </string>
-    <string id="4cf35a42fb69f0b8c096a0d1175b88be">
+    <string id="index_features_available_for_free">
         <![CDATA[disponível gratuitamente :-)]]>
     </string>
-    <string id="5d7375f5daa882a98a9c5f16686fe602">
+    <string id="index_legal_lead">
         <![CDATA[E quanto às legalidades das traduções utilizadas pelo programa?]]>
     </string>
-    <string id="a38b8064d26f863aed0a76f02e8060e4">
+    <string id="index_legal_note">
         <![CDATA[Essa não é uma pergunta simples, porque por um lado estamos falando sobre a "Palavra de Deus", que devemos transmitir para o mundo todo; por outro lado, reunir um grupo de tradutores experientes e dedicar tempo para preparar um texto de alta qualidade é custoso, e como a Bíblia nos diz: "Digno é o trabalhador do seu salário" [1 Timóteo 5:18]. Por essa razão, eu decidi dividir as traduções entre traduções autorizadas (legalmente disponível com base no consentimento prévio do autor ou devido ao vencimento dos direitos autorais), e não-autorizadas, que não foram verificadas pelo publicante. Enquanto trabalho no programa, vou tentar conseguir o total consentimento para o uso completamente autorizado desses textos. Enquanto esse momento não chega, decidi direcionar essa pergunta moral para os usuários, que tem o direito de decidir por eles mesmos se querem ou não instalar essas traduções em seus computadores (nenhuma tradução é automaticamente incorporada no programa).]]>
     </string>
-    <string id="f6fde347660eacd8801c943612eca841">
-        <![CDATA[Versão atual]]>
-    </string>
-    <string id="f029a7278730cdf8811169a47a5d6092">
+    <string id="index_latest_release">
         <![CDATA[A versão mais recente do programa é: <version>]]>
     </string>
-    <string id="ed8ae6640dd2bf572156dc2946aad46f">
+    <string id="index_file_size">
         <![CDATA[Tamanho do arquivo: <size>]]>
     </string>
-    <string id="508935c2ddc4713e35c14a7aea71bba9">
+    <string id="index_link_download">
         <![CDATA[Baixe o programa]]>
     </string>
-    <string id="b578f0bef88026a06887fb9d13cf5778">
-        <![CDATA[Screenshots]]>
-    </string>
-    <string id="e1f17d4927c35e4f3dc9acf175a6d0f6">
-        <![CDATA[Aqui preparei algumas imagens do programa rodando em um PC com Windows 10:]]>
-    </string>
-    <string id="46cb876414f888d3bdff846f23246655">
+    <string id="index_requirements">
         <![CDATA[Requerimentos de hardware]]>
     </string>
-    <string id="7042f544ac03cff92019c21988380f20">
+    <string id="index_dotnet_requirements">
         <![CDATA[Qualquer computador com o sistema operacional Windows (XP até 10) e o ambiente .NET Framework 3.5/4 (incluido no Windows 7 - Caso esteja utilizando uma versão mais antiga do Windows, você terá que instalar através do <dotnet_start>website do produtor<dotnet_end>). Para baixar novas traduções, você precisará de conexão com a internet. Instalar e rodar o programa <u>não requer</u> privilégios administrativos.]]>
     </string>
-    <string id="08ad2bf686cd7dfc7b1bcb911920d37a">
+    <string id="index_support_lead">
         <![CDATA[Apoio e desenvolvimento do programa]]>
     </string>
-    <string id="84279cea14bfe700d614bbe129bad81b">
+    <string id="index_support_description">
         <![CDATA[Se você encontrar algum erro no programa ou tem alguma sugestão de melhoria, escreva para mim. Vocie pode entrar em contato através do <contact_start>formulário de contato<contact_end>.]]>
     </string>
-    <string id="40d93cd4001d9ca3a3f28fa1dbb3dde1">
+    <string id="index_support_maintain">
         <![CDATA[Eu apoio e desenvolvo este programa utilizando meios próprios, porque eu ansio aprender a Palavra de Deus - assim como você :-)]]>
     </string>
-    <string id="1e5b5a99c429d26b61ca8a20a0bb6578">
-        <![CDATA[Apoie o desenvolvimento do programa]]>
-    </string>
-    <string id="2d23d300f093a19f172cf4a8a49ebb97">
+    <string id="index_support_donate">
         <![CDATA[Se você puder contribuir com uma <donation_start>pequena doação<donation_end> para a manuntenção do programa ou para uma das causas que eu apoio, serei muito grato.]]>
     </string>
-    <string id="a48f22d226c06d379d6b5e2900bf3d92">
+    <string id="template_title">
         <![CDATA[Programa gratuito para navegar diversas traduções da Bíblia]]>
     </string>
-    <string id="436f1f2f694e5188332433005cd23277">
-        <![CDATA[Mudar língua:]]>
-    </string>
-    <string id="de128178f3d20eff46784cd27fa442cc">
+    <string id="template_help_translate">
         <![CDATA[Me ajude a traduzir <website_start>este website<website_end> e <locales_start>outras fontes de línguas<locales_end> para o programa]]>
     </string>
-    <string id="e9414e6408b428cc43629500dc7a8fbd">
+    <string id="translations_title">
         <![CDATA[rBiblia - traduções disponíveis no programa]]>
     </string>
-    <string id="7135c528c163a5b3d640f957599be47d">
+    <string id="translations_description">
         <![CDATA[Traduções disponíveis no repositório rBiblia]]>
     </string>
-    <string id="e63be369b688f4d07c2e948ff947e55d">
+    <string id="translations_lead">
         <![CDATA[Traduções disponíveis para download no repositório rBiblia:]]>
     </string>
-    <string id="b438ed6cdabf96485d7d1a392d0c5dcf">
+    <string id="index_legal_summary">
         <![CDATA[O repositório atualmente contém <count> traduções (<list_start>veja a lista completa<list_end>).]]>
     </string>
-    <string id="d7cf3f110f672a72ed9be257aa5a33e4">
+    <string id="template_available_translations">
         <![CDATA[Traduções disponíveis]]>
     </string>
-    <string id="92316d41c56daf9140fc04509aecaaca">
+    <string id="template_link_contact">
         <![CDATA[Contato]]>
     </string>
 </localisation>
