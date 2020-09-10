@@ -102,4 +102,16 @@
     <string id="translations_lead">
         <![CDATA[Tłumaczenia dostępne do pobrania z repozytorium programu:]]>
     </string>
+    <string id="dotnet_lead">
+        <![CDATA[Twój system wymaga platformy .NET w wersji <version>]]>
+    </string>
+    <string id="dotnet_fx45">
+        <![CDATA[Od wersji 2.6 do uruchomienia programu rBiblia wymagana jest platforma .NET w wersji 4.7.2 lub nowszej. Twój pobyt na tej stronie świadczy o tym, że wspomniana platforma nie jest obecna w komputerze, na którym próbujesz zainstalować aplikację. Pobierz platformę ze <fx472_start>strony producenta<fx472_end>, a następnie zainstaluj ją w systemie.]]>
+    </string>
+    <string id="dotnet_fx35">
+        <![CDATA[Jeśli korzystasz jeszcze z systemu Windows XP/Vista to musisz zainstalować <arch_start>archiwalną wersję<arch_end> rBiblii 2.5.2, która wymaga .NET 3.5. Pobierz platformę .NET 3.5 ze <fx35_start>strony producenta<fx35_end>.]]>
+    </string>
+    <string id="index_legacy_release">
+        <![CDATA[Jeśli korzystasz z systemu <win>, możesz pobrać starszą wersję <ver>, która wymaga <dotnet>.]]>
+    </string>
 </localisation>
