@@ -114,4 +114,10 @@
     <string id="index_legacy_release">
         <![CDATA[If you're using/running <win>, you can download the legacy version <ver>, which requires <dotnet>.]]>
     </string>
+    <string id="index_web_release">
+        <![CDATA[Now you can also enjoy basic functionality of the program in your web browser.]]>
+    </string>
+    <string id="index_link_web">
+        <![CDATA[Show on-line version]]>
+    </string>
 </localisation>
