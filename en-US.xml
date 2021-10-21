@@ -64,7 +64,7 @@
         <![CDATA[Hardware requirements]]>
     </string>
     <string id="index_dotnet_requirements">
-        <![CDATA[Any computer with a Windows operating system (XP till 10) and the .NET Framework 3.5/4 environment (available by default since Windows 7 – in case of an older system you need to install it from the <dotnet_start>developer's website<dotnet_end>). To download new translations you need an Internet connection. Installing and running the program <u>does not require</u> administrator rights.]]>
+        <![CDATA[Any computer with a Windows operating system (XP till 11) and the .NET Framework 3.5/4 environment (available by default since Windows 7 – in case of an older system you need to install it from the <dotnet_start>developer's website<dotnet_end>). To download new translations you need an Internet connection. Installing and running the program <u>does not require</u> administrator rights.]]>
     </string>
     <string id="index_support_lead">
         <![CDATA[Support and program development]]>

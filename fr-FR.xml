@@ -64,7 +64,7 @@
         <![CDATA[Configuration requise]]>
     </string>
     <string id="index_dotnet_requirements">
-        <![CDATA[Tout ordinateur avec Windows (de XP à 10) et avec l'environnement .NET Framework 3.5/4 (disponible par défaut depuis Windows 7, pour les versions précédentes vous devez l'installer depuis <dotnet_start>le site de l'éditeur<dotnet_end>). Pour installer une nouvelle traduction vous devez avoir une connexion internet. Installer et utiliser le logiciel <u>ne nécessite pas</u> de droits administrateur.]]>
+        <![CDATA[Tout ordinateur avec Windows (de XP à 11) et avec l'environnement .NET Framework 3.5/4 (disponible par défaut depuis Windows 7, pour les versions précédentes vous devez l'installer depuis <dotnet_start>le site de l'éditeur<dotnet_end>). Pour installer une nouvelle traduction vous devez avoir une connexion internet. Installer et utiliser le logiciel <u>ne nécessite pas</u> de droits administrateur.]]>
     </string>
     <string id="index_support_lead">
         <![CDATA[Maintenance et développement du logiciel]]>

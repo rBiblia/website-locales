@@ -61,7 +61,7 @@
         <![CDATA[Wymagania sprzętowe]]>
     </string>
     <string id="index_dotnet_requirements">
-        <![CDATA[Dowolny komputer z systemem Windows (od XP do 10) oraz zainstalowane środowisko .NET Framework 3.5/4 (dostępne standardowo od Windows 7 - w przypadku starszych systemów należy je doinstalować pobierając ze <dotnet_start>strony producenta<dotnet_end>). Do pobierania nowych tłumaczeń wymagane jest połączenie internetowe. Instalacja i uruchomienie programu <u>nie wymagają</u> uprawnień Administratora.]]>
+        <![CDATA[Dowolny komputer z systemem Windows (od XP do 11) oraz zainstalowane środowisko .NET Framework 3.5/4 (dostępne standardowo od Windows 7 - w przypadku starszych systemów należy je doinstalować pobierając ze <dotnet_start>strony producenta<dotnet_end>). Do pobierania nowych tłumaczeń wymagane jest połączenie internetowe. Instalacja i uruchomienie programu <u>nie wymagają</u> uprawnień Administratora.]]>
     </string>
     <string id="index_legal_lead">
         <![CDATA[Jak wygląda kwestia legalności tłumaczeń użytych w programie?]]>

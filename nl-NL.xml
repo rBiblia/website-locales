@@ -64,7 +64,7 @@
         <![CDATA[Hardwarevereisten]]>
     </string>
     <string id="index_dotnet_requirements">
-        <![CDATA[Elke computer met Windows (vanaf XP tot en met 10) en geïnstalleerd .NET Framework 3.5 / 4 (standaard beschikbaar op Windows 7 - in het geval van oudere systemen dient dit opnieuw geïnstalleerd te worden door deze te downloaden van de <dotnet_start>fabrikant<dotnet_end>). Download de nieuwe vertalingen nodig zijn verbinding met het internet. Installatie en inbedrijfstelling programma, <u>niet vereist</u> Permission Administrator.]]>
+        <![CDATA[Elke computer met Windows (vanaf XP tot en met 11) en geïnstalleerd .NET Framework 3.5 / 4 (standaard beschikbaar op Windows 7 - in het geval van oudere systemen dient dit opnieuw geïnstalleerd te worden door deze te downloaden van de <dotnet_start>fabrikant<dotnet_end>). Download de nieuwe vertalingen nodig zijn verbinding met het internet. Installatie en inbedrijfstelling programma, <u>niet vereist</u> Permission Administrator.]]>
     </string>
     <string id="index_support_lead">
         <![CDATA[Ondersteuning en ontwikkelingsprogramma]]>

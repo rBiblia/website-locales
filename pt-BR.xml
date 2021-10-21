@@ -64,7 +64,7 @@
         <![CDATA[Requerimentos de hardware]]>
     </string>
     <string id="index_dotnet_requirements">
-        <![CDATA[Qualquer computador com o sistema operacional Windows (XP até 10) e o ambiente .NET Framework 3.5/4 (incluido no Windows 7 - Caso esteja utilizando uma versão mais antiga do Windows, você terá que instalar através do <dotnet_start>website do produtor<dotnet_end>). Para baixar novas traduções, você precisará de conexão com a internet. Instalar e rodar o programa <u>não requer</u> privilégios administrativos.]]>
+        <![CDATA[Qualquer computador com o sistema operacional Windows (XP até 11) e o ambiente .NET Framework 3.5/4 (incluido no Windows 7 - Caso esteja utilizando uma versão mais antiga do Windows, você terá que instalar através do <dotnet_start>website do produtor<dotnet_end>). Para baixar novas traduções, você precisará de conexão com a internet. Instalar e rodar o programa <u>não requer</u> privilégios administrativos.]]>
     </string>
     <string id="index_support_lead">
         <![CDATA[Apoio e desenvolvimento do programa]]>
