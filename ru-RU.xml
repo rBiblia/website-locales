@@ -114,4 +114,10 @@
     <string id="index_legacy_release">
         <![CDATA[Если всё ещё используешь систему <win>, тогда ты можешь скачать старшую версию <ver>, которая требует <dotnet>.]]>
     </string>
+    <string id="index_web_release">
+        <![CDATA[С этих пор ты можешь использовать урезанную версию программы в своём браузерe.]]>
+    </string>
+    <string id="index_link_web">
+        <![CDATA[Показать онлайн-версию]]>
+    </string>
 </localisation>
