@@ -102,4 +102,13 @@
     <string id="index_web_release">
         <![CDATA[Od teraz możesz także korzystać z okrojonej wersji programu w swojej przeglądarce internetowej.]]>
     </string>
+    <string id="translations_title">
+        <![CDATA[rBiblia - dostępne tłumaczenia w programie]]>
+    </string>
+    <string id="translations_description">
+        <![CDATA[Tłumaczenia dostępne w repozytorium programu rBiblia]]>
+    </string>
+    <string id="translations_lead">
+        <![CDATA[Tłumaczenia dostępne do pobrania z repozytorium programu:]]>
+    </string>
 </localisation>
