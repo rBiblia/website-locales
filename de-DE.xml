@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localisation>
+    <string id="index_title">
+        <![CDATA[rBiblia - kostenloses Programm zum Betrachten von unterschiedlichen Bibelübersetzungen]]>
+	</string>
+    <string id="index_description">
+        <![CDATA[rBiblia - die Bibel auf eigene Art lesen]]>
+    </string>
+    <string id="index_features_quick_access">
+       <![CDATA[schneller Zugang zu vielen Bibel-Übersetzungen in verschiedenen Sprachen]]>
+    </string>
+    <string id="index_features_easy_compare">
+       <![CDATA[schnelles Auffinden derselben Versen in verschiedenen Übersetzungen]]>	
+	</string>
+    <string id="index_features_browse_them_all">
+        <![CDATA[Mehrere Übersetzungen auf einmal ansehen]]>
+	</string>
+    <string id="index_features_view_customisation">
+        <![CDATA[Ändern der Schriftfarbe und -größe möglich]]>
+    </string>
+    <string id="index_features_repository_management">
+        <![CDATA[einfaches Hinzufügen (Herunterladen) oder Entfernen von Bibel-Übersetzungen innerhalb der Anwendung]]>
+    </string>
+    <string id="index_features_clipboard_copy">
+        <![CDATA[Kopieren in die Zwischenablage möglich]]>
+    </string>
+    <string id="index_features_bookmarks">
+        <![CDATA[Anlegen von komplexen Lesezeichen für ausgewählte Stellen innerhalb einer Übersetzung]]>
+    </string>
+    <string id="index_features_dictionary">
+        <![CDATA[Zugriff auf ein Wörterbuch mit biblischen Begriffen]]>
+    </string>
+    <string id="index_features_updates">
+        <![CDATA[automatische Aktualisierung des Programms]]>
+    </string>
+    <string id="index_features_you_rule">
+        <![CDATA[nur mit den Übersetzungen arbeiten, an denen Sie interessiert sind]]>	
+    </string>
+    <string id="index_features_low_requirements">
+        <![CDATA[kleine Programmgröße, geringe Hadrware-Anforderungen]]>	
+    </string>
+    <string id="index_features_multi_language">
+        <![CDATA[Unterstützung verschiedener Sprachversionen (standardmäßig: Polnisch, Englisch und Russisch]]>
+    </string>
+    <string id="index_features_available_for_free">
+        <![CDATA[kostenlos zu haben :-)]]>
+    </string>
+    <string id="index_latest_release">
+        <![CDATA[Die aktuellste Version des Programms: <version>]]>
+    </string>
+    <string id="index_file_size">
+        <![CDATA[Dateigröße zum Herunterladen: <size>]]>
+    </string>
+    <string id="index_link_download">
+        <![CDATA[das Programm herunterladen]]>
+    </string>
+    <string id="index_legacy_release">
+        <![CDATA[Wenn Sie die Windows-Version <win> verwenden, dann können Sie eine ältere Version <ver> des Programms herunterladen, die <dotnet> erfordert.]]>
+    </string>
+    <string id="index_requirements">
+        <![CDATA[Hardware-Anforderungen]]>
+    </string>
+    <string id="index_dotnet_requirements">
+        <![CDATA[Beliebiger Rechner mit Windows-Betriebssystem (von XP bis 11) sowie installierter .NET Framework 3.5/4 Umgebung (standardmäßig verfügbar ab Windows 7 - im Falle von älteren Windows-Systemen muss die .NET-Umgebung nachinstalliert werden, unter <dotnet_start> Homepage des Entwicklers <dotnet_end>). Um neue/weitere Bibelübersetzungen zu beziehen (herunterladen) ist eine Internetverbindung erforderlich. Installieren und Betreiben des Programms <u>erfordert keine</u> Administratorenrechte.]]>
+	</string>
+    <string id="index_legal_lead">
+        <![CDATA[Wie steht es um den rechtlichen Status der im Programm verwendeten Übersetzungen?]]>
+    </string>
+    <string id="index_legal_note">
+        <![CDATA[Dies ist keine einfache Frage, denn einerseits geht es um "Gottes Wort", das wir der ganzen Welt verkünden sollen. Andererseits sind die Zusammenstellung einer Gruppe erfahrener Übersetzer und die Zeit, die für die Erstellung eines qualitativ hochwertigen Textes aufgewendet wird, kostspielig, und wie die Bibel sagt: "Der Arbeiter ist seines Lohnes würdig" [1 Timotheus 5:18]. Aus diesem Grund habe ich mich entschlossen, die Übersetzungen in autorisierte (legal verfügbar, mit Zustimmung des Autors oder aufgrund des Ablaufs des Urheberrechts) und nicht autorisierte, die von ihren Verlegern nicht lizenziert wurden, zu unterteilen. Den nicht-autorisierten Übersetzungen wurde bisher von dem jeweiligen Herausgeber keine formele Zustimmung für die Nutzung erteilt. Während der Arbeit an dem Programm werde ich versuchen, die Zustimmung zur vollständig autorisierten Nutzung dieser Texte zu erhalten. Bis dahin habe ich beschlossen, die moralische Frage an die Benutzer weiterzugeben, die selbst entscheiden können, ob sie diese Übersetzungen auf ihren Computern installieren wollen (Übersetzungen sind nicht automatisch im Programm enthalten).]]>
+	</string>
+    <string id="index_legal_summary">
+        <![CDATA[Das Bibelübersetzungen-Archiv beinhaltet zur Zeit <count> Übersetzungen, (<list_start>siehe vollständige Liste<list_end>).]]>	
+    </string>
+    <string id="index_support_lead">
+        <![CDATA[Unterstützung und Entwicklung des Programms]]>
+    </string>
+    <string id="index_support_description">
+        <![CDATA[Wenn Sie einen Fehler in dem Programm gefunden haben oder Sie hätten eine Idee, wie man es verbessern könnte, dann schreiben Sie mich an. Das kann mithilfe des <contact_start>Kontaktformulars<contact_end> getan werden.]]>
+    </string>
+    <string id="index_support_maintain">
+        <![CDATA[Ich finanziere den Support und die Entwicklung des Programms aus eigenen Mitteln, da ich, genauso wie Sie :-) , daran interessiert bin das Wort Gottes zu studieren.]]>
+    </string>
+    <string id="index_support_donate">
+        <![CDATA[Wenn Sie aber eine <donation_start>kleine Gabe<donation_end>] geben könnten, um das Programm oder eins der Ziele, für die ich das Geld entgegennehme, zu unterstützen, wäre ich Ihnen dafür sehr dankbar.]]>
+    </string>
+    <string id="template_title">
+        <![CDATA[Kostenloses Programm zum Betrachten von unterschiedlichen Bibelübersetzungen]]>
+    </string>
+    <string id="template_available_translations">
+        <![CDATA[Verfügbare Übersetzungen]]>
+    </string>
+    <string id="template_link_contact">
+        <![CDATA[Kontakt]]>
+    </string>
+    <string id="template_help_translate">
+        <![CDATA[Helfen Sie mir <website_start>diese Webseite<website_end> und <locales_start>andere sprachliche Ressourcen<locales_end> für dieses Programm zu übersetzen]]>
+    </string>
+    <string id="index_link_web">
+        <![CDATA[Online-Version anzeigen]]>	
+    </string>
+    <string id="index_web_release">
+        <![CDATA[Ab jetzt können Sie die Grundfunktionen des Programms auch in Íhrem Web-Browser nutzen.]]>
+    </string>
+    <string id="translations_title">
+        <![CDATA[rBiblia – Bibel-Übersetzungen, die in dem Programm zur Verfügung stehen]]>
+    </string>
+    <string id="translations_description">
+        <![CDATA[Verfügbare Übersetzungen im rBiblia-Archiv:]]>
+    </string>
+    <string id="translations_lead">
+        <![CDATA[Diese Übersetzungen können aus dem Programmarchiv heruntergeladen werden:]]>
+    </string>
+    <string id="dotnet_lead">
+        <![CDATA[Ihr System erfordert .NET Framework Version <version>]]>
+    </string>
+    <string id="dotnet_fx45">
+        <![CDATA[Ab Version 2.6 ist für rBiblia die ".NET Framework" Umgebung Version 4.7.2 oder höher erforderlich. Sie wurden hierher umgeleitet, da die notwendige .NET Framework Umgebung auf Ihrem Rechner nicht installiert ist. Bitte laden Sie die entsprechende .NET Framework Umgebung von der <fx472_start>Entwicklerseite<fx472_end> und installieren Sie sie.]]>
+    </string>
+    <string id="dotnet_fx35">
+        <![CDATA[Wenn Sie noch Windows XP/Vista verwenden, dann müssen Sie die <arch_start>ältere Version 2.5.2<arch_end> von rBiblia installieren, die .NET Framework 3.5 Umgebung erfordert.]]>
+    </string>
+</localisation>
