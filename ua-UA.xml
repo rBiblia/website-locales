@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localisation>
+    <string id="index_title">
+        <![CDATA[rBiblia - безкоштовна програма для перегляду біблійних перекладів]]>
+    </string>
+    <string id="index_description">
+        <![CDATA[rBiblia - Біблія по твоєму]]>
+    </string>
+    <string id="index_features_quick_access">
+        <![CDATA[швидкий доступ до багатьох біблійних перекладів різними мовами]]>
+    </string>
+    <string id="index_features_easy_compare">
+        <![CDATA[знаходження цих самих рядків у різних перекладах]]>
+    </string>
+    <string id="index_features_browse_them_all">
+        <![CDATA[перегляд багатьох перекладів одночасно]]>
+    </string>
+    <string id="index_features_view_customisation">
+        <![CDATA[можливість зміни кольорів за замовчуванням або розміру шрифту]]>
+    </string>
+    <string id="index_features_repository_management">
+        <![CDATA[легке завантаження та видалення нових перекладів із програми]]>
+    </string>
+    <string id="index_features_clipboard_copy">
+        <![CDATA[можливість скопіювати рядок у буфер обміну]]>
+    </string>
+    <string id="index_features_bookmarks">
+        <![CDATA[створення розширених закладок до обраних місць у перекладі]]>
+    </string>
+    <string id="index_features_dictionary">
+        <![CDATA[доступ до словника біблійних термінів]]>
+    </string>
+    <string id="index_features_updates">
+        <![CDATA[автоматичне оновлення програми]]>
+    </string>
+    <string id="index_features_you_rule">
+        <![CDATA[робота з тими перекладами, які вас цікавлять]]>
+    </string>
+    <string id="index_features_low_requirements">
+        <![CDATA[малий розмір та невеликі системні вимоги]]>
+    </string>
+    <string id="index_features_multi_language">
+        <![CDATA[підтримка різних мовних версій (за замовчуванням польською, англійською, російською та українською)]]>
+    </string>
+    <string id="index_features_available_for_free">
+        <![CDATA[доступна безкоштовно :-)]]>
+    </string>
+    <string id="index_legal_lead">
+        <![CDATA[Яким є питання легальності перекладів, використаних у програмі?]]>
+    </string>
+    <string id="index_legal_note">
+        <![CDATA[Ну, це не проста справа, тому що, з одного боку, ми маємо справу з "Божим словом", яке має проповідуватися по всій Землі. З іншого боку, збори колективу досвідчених перекладачів, витрати часу та підготовка тексту високої якості - дуже дороге задоволення, а як каже Біблія "Робітник вартий своєї плати" [1 Тимофій 5:18]. Тому я вирішив поділити переклади на авторизовані (доступні легально на основі угоди автора або з приводу закінчення терміну авторських прав - громадські надбання) та неавторизовані, які ще не були перевірені їх видавцем. Під час роботи над програмою я намагатимуся отримати угоду на цілком авторизоване використання текстів. До того часу всі моральні питання я вирішив перекласти на користувача, який сам вирішує завантажити переклади на свій комп'ютер (з програмою не поширюється жодний переклад).]]>
+    </string>
+    <string id="index_legal_summary">
+        <![CDATA[Репозиторій містить зараз <count> перекладів (<list_start>показати список<list_end>).]]>
+    </string>
+    <string id="index_latest_release">
+        <![CDATA[Найновіша версія програми це: <version>]]>
+    </string>
+    <string id="index_file_size">
+        <![CDATA[Розмір файлу для завантаження: <size>]]>
+    </string>
+    <string id="index_link_download">
+        <![CDATA[Завантажити програму]]>
+    </string>
+    <string id="index_requirements">
+        <![CDATA[Системні вимоги]]>
+    </string>
+    <string id="index_dotnet_requirements">
+        <![CDATA[Будь-який комп'ютер із системою Windows (від XP до 11) і встановлене середовище .NET Framework 3.5/4 (доступна зазвичай з Windows 7, у разі старої системи треба її завантажити з <dotnet_start>сайту виробника<dotnet_end>). Для завантаження нових перекладів потрібен зв'язок із Інтернетом. Встановлення та завантаження програми <u>не вимагає</u> прав Адміністратора.]]>
+    </string>
+    <string id="index_support_lead">
+        <![CDATA[Фінансова допомога та розвиток програми]]>
+    </string>
+    <string id="index_support_description">
+        <![CDATA[Якщо ви знайшли помилку в програмі або маєте ідею покращення програми, напишіть мені за допомогою <contact_start>контактної форми<contact_end>.]]>
+    </string>
+    <string id="index_support_maintain">
+        <![CDATA[Я підтримую і розвиваю програму за власні гроші, тому що так само, як і ви - я прагну пізнати слово Боже :-) ]]>
+    </string>
+    <string id="index_support_donate">
+        <![CDATA[Якщо можете внести <donation_start>невеликі гроші<donation_end> на підтримку програми або одну з цілей, на які збираю гроші, буду вам вдячний.]]>
+    </string>
+    <string id="template_title">
+        <![CDATA[Безкоштовна програма для перегляду біблійних перекладів]]>
+    </string>
+    <string id="template_help_translate">
+        <![CDATA[Допоможи мені перекласти <website_start>цей сайт<website_end> та <locales_start>інші мовні ресурси<locales_end> програми]]>
+    </string>
+    <string id="translations_title">
+        <![CDATA[rBiblia - доступні переклади у програмі]]>
+    </string>
+    <string id="translations_description">
+        <![CDATA[Переклади доступні у репозиторії програми rBiblia]]>
+    </string>
+    <string id="translations_lead">
+        <![CDATA[Переклади доступні для завантаження з репозиторію програми:]]>
+    </string>
+    <string id="template_available_translations">
+        <![CDATA[Доступні переклади]]>
+    </string>
+    <string id="template_link_contact">
+        <![CDATA[Контакт]]>
+    </string>
+    <string id="dotnet_lead">
+        <![CDATA[Ваша система вимагає платформи .NET версії <version>]]>
+    </string>
+    <string id="dotnet_fx45">
+        <![CDATA[З версії 2.6 для запуску програми rBiblia потрібна платформа .NET версії 4.7.2 або більш нова. Ваше перебування на цій сторінці свідчить про те, що ця платформа відсутня на комп'ютері, на якому зроблено спробу встановити програму. Завантажте платформу зі <fx472_start>сторінки сайту виробника<fx472_end>, а потім встановіть її в систему.]]>
+    </string>
+    <string id="dotnet_fx35">
+        <![CDATA[Якщо ви все ще використовуєте систему Windows XP/Vista, вам доведеться встановити <arch_start>архівну версію<arch_end> програми rBiblia 2.5.2, яка вимагає .NET 3.5. Скачай платформу .NET 3.5 зі <fx35_start>сторінки сайту виробника<fx35_end>.]]>
+    </string>
+    <string id="index_legacy_release">
+        <![CDATA[Якщо ви все ще використовуєте систему <win>, тоді ви можете завантажити старшу версію <ver>, яка вимагає <dotnet>.]]>
+    </string>
+    <string id="index_web_release">
+        <![CDATA[З цього часу ви можете використовувати урізану версію програми у своєму браузері.]]>
+    </string>
+    <string id="index_link_web">
+        <![CDATA[Показати онлайн-версію]]>
+    </string>
+</localisation>
