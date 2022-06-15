@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <localisation>
     <string id="index_title">
-        <![CDATA[рБиблия - бесплатная программа для просмотра библейских переводов]]>
+        <![CDATA[rBiblia - бесплатная программа для просмотра библейских переводов]]>
     </string>
     <string id="index_description">
-        <![CDATA[рБиблия - Библия по Твоему]]>
+        <![CDATA[rBiblia - Библия по Твоему]]>
     </string>
     <string id="index_features_quick_access">
         <![CDATA[быстрый доступ ко многим библейским переводам на разных языках]]>
@@ -88,10 +88,10 @@
         <![CDATA[Помоги мне перевести <website_start>этот сайт<website_end> и <locales_start>другие языковые средства<locales_end> программы]]>
     </string>
     <string id="translations_title">
-        <![CDATA[рБиблия - доступные переводы в программе]]>
+        <![CDATA[rBiblia - доступные переводы в программе]]>
     </string>
     <string id="translations_description">
-        <![CDATA[Переводы доступные в репозитории программы рБиблия]]>
+        <![CDATA[Переводы доступные в репозитории программы rBiblia]]>
     </string>
     <string id="translations_lead">
         <![CDATA[Переводы доступны для скачивания из репозитория программы:]]>
