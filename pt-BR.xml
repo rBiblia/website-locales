@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <localisation>
     <string id="index_title">
-        <![CDATA[rBiblia - um programa gratuito para navegar traduções da Bíblia ]]>
+        <![CDATA[rBiblia - um programa gratuito para navegar traduções da Bíblia]]>
     </string>
     <string id="index_description">
         <![CDATA[rBiblia - o seu jeito de ler a Bíblia]]>
@@ -101,5 +101,23 @@
     </string>
     <string id="template_link_contact">
         <![CDATA[Contato]]>
+    </string>
+    <string id="dotnet_lead">
+        <![CDATA[Seu sistema requer a versão <versão> da plataforma .NET]]>
+    </string>
+    <string id="dotnet_fx45">
+        <![CDATA[Da versão 2.6 em diante, a plataforma .NET versão 4.7.2 ou posterior é necessária para executar o rBiblia. Sua visita a esta página indica que a plataforma mencionada não está presente no computador no qual você está tentando instalar o aplicativo. Faça o download da plataforma no site do fabricante <fx472_start><fx472_end> e, em seguida, instale-a em seu sistema.]]>
+    </string>
+    <string id="dotnet_fx35">
+        <![CDATA[Se ainda estiver usando o Windows XP/Vista, será necessário instalar a <arch_start>versão do arquivo<arch_end> do rBiblii 2.5.2, que requer o .NET 3.5. Faça o download da plataforma .NET 3.5 no site do <fx35_start> fabricante<fx35_end>.]]>
+    </string>
+    <string id="index_legacy_release">
+        <![CDATA[Se estiver usando o <win>, poderá fazer download de uma versão mais antiga do <ver>, que requer o <dotnet>.]]>
+    </string>
+    <string id="index_web_release">
+        <![CDATA[A partir de agora, você também pode usar uma versão truncada do programa em seu navegador da Web.]]>
+    </string>
+    <string id="index_link_web">
+        <![CDATA[Mostrar versão on-line]]>
     </string>
 </localisation>

@@ -102,4 +102,22 @@
     <string id="template_link_contact">
         <![CDATA[Contact]]>
     </string>
+    <string id="index_legacy_release">
+        <![CDATA[Als je <win> gebruikt, kun je een oudere versie van <ver> downloaden, waarvoor <dotnet> nodig is.]]>
+    </string>
+    <string id="index_web_release">
+        <![CDATA[Vanaf nu kun je ook een ingekorte versie van het programma in je webbrowser gebruiken.]]>
+    </string>
+    <string id="index_link_web">
+        <![CDATA[Online versie weergeven]]>
+    </string>
+    <string id="dotnet_lead">
+        <![CDATA[Uw systeem vereist de .NET-platformversie <versie>]]>
+    </string>
+    <string id="dotnet_fx45">
+        <![CDATA[Vanaf versie 2.6 is .NET platform versie 4.7.2 of later vereist om rBiblia te kunnen draaien. Uw bezoek aan deze pagina geeft aan dat het genoemde platform niet aanwezig is op de computer waarop u de toepassing probeert te installeren. Download het platform van de <fx472_start> website van de fabrikant<fx472_end> en installeer het vervolgens op uw systeem.]]>
+    </string>
+    <string id="dotnet_fx35">
+        <![CDATA[Als je nog steeds Windows XP/Vista gebruikt, moet je de <arch_start>archiefversie<arch_end> van rBiblii 2.5.2 installeren, waarvoor .NET 3.5 vereist is. Download het .NET 3.5-platform van de <fx35_start>website van de fabrikant<fx35_end>.]]>
+    </string>
 </localisation>
