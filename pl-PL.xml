@@ -54,9 +54,6 @@
     <string id="index_link_download">
         <![CDATA[Pobierz program]]>
     </string>
-    <string id="index_legacy_release">
-        <![CDATA[Jeśli korzystasz z systemu <win>, możesz pobrać starszą wersję <ver>, która wymaga <dotnet>.]]>
-    </string>
     <string id="index_requirements">
         <![CDATA[Wymagania sprzętowe]]>
     </string>

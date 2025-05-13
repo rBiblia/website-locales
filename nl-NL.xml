@@ -102,9 +102,6 @@
     <string id="template_link_contact">
         <![CDATA[Contact]]>
     </string>
-    <string id="index_legacy_release">
-        <![CDATA[Als je <win> gebruikt, kun je een oudere versie van <ver> downloaden, waarvoor <dotnet> nodig is.]]>
-    </string>
     <string id="index_web_release">
         <![CDATA[Vanaf nu kun je ook een ingekorte versie van het programma in je webbrowser gebruiken.]]>
     </string>

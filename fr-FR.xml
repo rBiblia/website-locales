@@ -111,9 +111,6 @@
     <string id="dotnet_fx35">
         <![CDATA[Si vous utilisez toujours Windows XP/Vista, vous devez installer la version <arch_start>archive<arch_end> de rBiblii 2.5.2, qui nécessite .NET 3.5. Téléchargez la plate-forme .NET 3.5 depuis le site web du fabricant <fx35_start><fx35_end>.]]>
     </string>
-    <string id="index_legacy_release">
-        <![CDATA[Si vous utilisez <win>, vous pouvez télécharger une ancienne version de <ver>, qui nécessite <dotnet>.]]>
-    </string>
     <string id="index_web_release">
         <![CDATA[Désormais, vous pouvez également utiliser une version tronquée du programme dans votre navigateur web.]]>
     </string>
