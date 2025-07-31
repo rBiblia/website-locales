@@ -2,19 +2,19 @@
 <localisation>
     <string id="index_title">
         <![CDATA[rBiblia - kostenloses Programm zum Betrachten von unterschiedlichen Bibelübersetzungen]]>
-	</string>
+    </string>
     <string id="index_description">
         <![CDATA[rBiblia - die Bibel auf eigene Art lesen]]>
     </string>
     <string id="index_features_quick_access">
-       <![CDATA[schneller Zugang zu vielen Bibel-Übersetzungen in verschiedenen Sprachen]]>
+        <![CDATA[schneller Zugang zu vielen Bibel-Übersetzungen in verschiedenen Sprachen]]>
     </string>
     <string id="index_features_easy_compare">
-       <![CDATA[schnelles Auffinden derselben Versen in verschiedenen Übersetzungen]]>	
-	</string>
+        <![CDATA[schnelles Auffinden derselben Versen in verschiedenen Übersetzungen]]>
+    </string>
     <string id="index_features_browse_them_all">
         <![CDATA[Mehrere Übersetzungen auf einmal ansehen]]>
-	</string>
+    </string>
     <string id="index_features_view_customisation">
         <![CDATA[Ändern der Schriftfarbe und -größe möglich]]>
     </string>
@@ -34,10 +34,10 @@
         <![CDATA[automatische Aktualisierung des Programms]]>
     </string>
     <string id="index_features_you_rule">
-        <![CDATA[nur mit den Übersetzungen arbeiten, an denen Sie interessiert sind]]>	
+        <![CDATA[nur mit den Übersetzungen arbeiten, an denen Sie interessiert sind]]>
     </string>
     <string id="index_features_low_requirements">
-        <![CDATA[kleine Programmgröße, geringe Hadrware-Anforderungen]]>	
+        <![CDATA[kleine Programmgröße, geringe Hadrware-Anforderungen]]>
     </string>
     <string id="index_features_multi_language">
         <![CDATA[Unterstützung verschiedener Sprachversionen (standardmäßig: Polnisch, Englisch und Russisch]]>
@@ -59,15 +59,15 @@
     </string>
     <string id="index_dotnet_requirements">
         <![CDATA[Beliebiger Rechner mit Windows-Betriebssystem (von XP bis 11) sowie installierter .NET Framework 3.5/4 Umgebung (standardmäßig verfügbar ab Windows 7 - im Falle von älteren Windows-Systemen muss die .NET-Umgebung nachinstalliert werden, unter <dotnet_start> Homepage des Entwicklers <dotnet_end>). Um neue/weitere Bibelübersetzungen zu beziehen (herunterladen) ist eine Internetverbindung erforderlich. Installieren und Betreiben des Programms <u>erfordert keine</u> Administratorenrechte.]]>
-	</string>
+    </string>
     <string id="index_legal_lead">
         <![CDATA[Wie steht es um den rechtlichen Status der im Programm verwendeten Übersetzungen?]]>
     </string>
     <string id="index_legal_note">
         <![CDATA[Dies ist keine einfache Frage, denn einerseits geht es um "Gottes Wort", das wir der ganzen Welt verkünden sollen. Andererseits sind die Zusammenstellung einer Gruppe erfahrener Übersetzer und die Zeit, die für die Erstellung eines qualitativ hochwertigen Textes aufgewendet wird, kostspielig, und wie die Bibel sagt: "Der Arbeiter ist seines Lohnes würdig" [1 Timotheus 5:18]. Aus diesem Grund habe ich mich entschlossen, die Übersetzungen in autorisierte (legal verfügbar, mit Zustimmung des Autors oder aufgrund des Ablaufs des Urheberrechts) und nicht autorisierte, die von ihren Verlegern nicht lizenziert wurden, zu unterteilen. Den nicht-autorisierten Übersetzungen wurde bisher von dem jeweiligen Herausgeber keine formele Zustimmung für die Nutzung erteilt. Während der Arbeit an dem Programm werde ich versuchen, die Zustimmung zur vollständig autorisierten Nutzung dieser Texte zu erhalten. Bis dahin habe ich beschlossen, die moralische Frage an die Benutzer weiterzugeben, die selbst entscheiden können, ob sie diese Übersetzungen auf ihren Computern installieren wollen (Übersetzungen sind nicht automatisch im Programm enthalten).]]>
-	</string>
+    </string>
     <string id="index_legal_summary">
-        <![CDATA[Das Bibelübersetzungen-Archiv beinhaltet zur Zeit <count> Übersetzungen, (<list_start>siehe vollständige Liste<list_end>).]]>	
+        <![CDATA[Das Bibelübersetzungen-Archiv beinhaltet zur Zeit <count> Übersetzungen, (<list_start>siehe vollständige Liste<list_end>).]]>
     </string>
     <string id="index_support_lead">
         <![CDATA[Unterstützung und Entwicklung des Programms]]>
@@ -94,7 +94,7 @@
         <![CDATA[Helfen Sie mir <website_start>diese Webseite<website_end> und <locales_start>andere sprachliche Ressourcen<locales_end> für dieses Programm zu übersetzen]]>
     </string>
     <string id="index_link_web">
-        <![CDATA[Online-Version anzeigen]]>	
+        <![CDATA[Online-Version anzeigen]]>
     </string>
     <string id="index_web_release">
         <![CDATA[Ab jetzt können Sie die Grundfunktionen des Programms auch in Íhrem Web-Browser nutzen.]]>
@@ -116,5 +116,26 @@
     </string>
     <string id="dotnet_fx35">
         <![CDATA[Wenn Sie noch Windows XP/Vista verwenden, dann müssen Sie die <arch_start>ältere Version 2.5.2<arch_end> von rBiblia installieren, die .NET Framework 3.5 Umgebung erfordert.]]>
+    </string>
+    <string id="privacy_lead">
+        <![CDATA[Die Sicherheit Ihrer personenbezogenen Daten ist mir sehr wichtig. Deshalb finden Sie nachfolgend Informationen darüber, was passiert, wenn Sie das Programm nutzen]]>
+    </string>
+    <string id="privacy_line_1">
+        <![CDATA[Es werden keine personenbezogenen Daten gespeichert oder in einer Weise verwendet, die die Privatsphäre der Nutzer verletzen könnte.]]>
+    </string>
+    <string id="privacy_line_2">
+        <![CDATA[Das Programm rBiblia sammelt während der Nutzung seiner Funktionen keine personenbezogenen Daten.]]>
+    </string>
+    <string id="privacy_line_3">
+        <![CDATA[Das Programm rBiblia kann jedoch die IP-Adresse des Benutzers während der Überprüfung auf Programm-Updates sammeln und verarbeiten.]]>
+    </string>
+    <string id="privacy_line_4">
+        <![CDATA[Alles andere liegt in deinen Händen.]]>
+    </string>
+    <string id="privacy_title">
+        <![CDATA[rBiblia – Datenschutzerklärung]]>
+    </string>
+    <string id="privacy_description">
+        <![CDATA[Datenschutzerklärung]]>
     </string>
 </localisation>

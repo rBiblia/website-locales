@@ -117,4 +117,25 @@
     <string id="dotnet_fx35">
         <![CDATA[Als je nog steeds Windows XP/Vista gebruikt, moet je de <arch_start>archiefversie<arch_end> van rBiblii 2.5.2 installeren, waarvoor .NET 3.5 vereist is. Download het .NET 3.5-platform van de <fx35_start>website van de fabrikant<fx35_end>.]]>
     </string>
+    <string id="privacy_lead">
+        <![CDATA[De veiligheid van uw persoonlijke gegevens is voor mij erg belangrijk. Daarom vindt u hieronder informatie over wat er gebeurt wanneer u het programma gebruikt]]>
+    </string>
+    <string id="privacy_line_1">
+        <![CDATA[Er worden geen persoonsgegevens opgeslagen of gebruikt op een manier die de privacy van gebruikers zou kunnen schenden.]]>
+    </string>
+    <string id="privacy_line_2">
+        <![CDATA[Het programma rBiblia verzamelt geen persoonlijke gegevens tijdens het gebruik van zijn functies.]]>
+    </string>
+    <string id="privacy_line_3">
+        <![CDATA[Het programma rBiblia kan echter het IP-adres van de gebruiker verzamelen en verwerken tijdens het uitvoeren van de procedure voor het controleren van programma-updates.]]>
+    </string>
+    <string id="privacy_line_4">
+        <![CDATA[Al het andere ligt in jouw handen.]]>
+    </string>
+    <string id="privacy_title">
+        <![CDATA[rBiblia - privacybeleid]]>
+    </string>
+    <string id="privacy_description">
+        <![CDATA[Privacybeleid]]>
+    </string>
 </localisation>

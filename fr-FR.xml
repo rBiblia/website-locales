@@ -117,4 +117,25 @@
     <string id="index_link_web">
         <![CDATA[Afficher la version en ligne]]>
     </string>
+    <string id="privacy_lead">
+        <![CDATA[La sécurité de vos données personnelles est très importante pour moi. Vous trouverez donc ci-dessous des informations sur ce qui se passe lorsque vous utilisez le programme]]>
+    </string>
+    <string id="privacy_line_1">
+        <![CDATA[Aucune donnée personnelle n'est conservée ou utilisée d'une manière qui pourrait porter atteinte à la vie privée des utilisateurs.]]>
+    </string>
+    <string id="privacy_line_2">
+        <![CDATA[Le programme rBiblia ne collecte aucune donnée personnelle lors de l'utilisation de ses fonctionnalités.]]>
+    </string>
+    <string id="privacy_line_3">
+        <![CDATA[Le programme rBiblia peut toutefois collecter et traiter l'adresse IP de l'utilisateur lors de la procédure de vérification des mises à jour du programme.]]>
+    </string>
+    <string id="privacy_line_4">
+        <![CDATA[Tout le reste est entre vos mains.]]>
+    </string>
+    <string id="privacy_title">
+        <![CDATA[rBiblia - politique de confidentialité]]>
+    </string>
+    <string id="privacy_description">
+        <![CDATA[Politique de confidentialité]]>
+    </string>
 </localisation>
