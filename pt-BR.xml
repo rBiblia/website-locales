@@ -138,4 +138,16 @@
     <string id="privacy_description">
         <![CDATA[Política de privacidade]]>
     </string>
+    <string id="index_winget_info">
+        <![CDATA[Instale de forma rápida e conveniente usando o comando winget]]>
+    </string>
+    <string id="index_winget_command_description">
+        <![CDATA[Você pode realizar uma instalação rápida no Windows 10 e versões mais recentes usando um único comando]]>
+    </string>
+    <string id="index_winget_copy_success">
+        <![CDATA[O comando foi copiado para a área de transferência! Agora basta executá-lo no terminal (cmd ou PowerShell)]]>
+    </string>
+    <string id="index_winget_copy_error">
+        <![CDATA[Ocorreu um erro ao copiar o comando para a área de transferência]]>
+    </string>
 </localisation>

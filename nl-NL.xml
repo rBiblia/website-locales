@@ -138,4 +138,16 @@
     <string id="privacy_description">
         <![CDATA[Privacybeleid]]>
     </string>
+    <string id="index_winget_info">
+        <![CDATA[Installeer snel en gemakkelijk met het winget-commando]]>
+    </string>
+    <string id="index_winget_command_description">
+        <![CDATA[Je kunt snel installeren in Windows 10 en nieuwere versies met één commando]]>
+    </string>
+    <string id="index_winget_copy_success">
+        <![CDATA[De opdracht is gekopieerd naar het klembord! Nu hoef je hem alleen nog maar te starten in de terminal (cmd of PowerShell)]]>
+    </string>
+    <string id="index_winget_copy_error">
+        <![CDATA[Er is een fout opgetreden bij het kopiëren van de opdracht naar het klembord]]>
+    </string>
 </localisation>

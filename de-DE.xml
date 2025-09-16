@@ -138,4 +138,16 @@
     <string id="privacy_description">
         <![CDATA[Datenschutzerklärung]]>
     </string>
+    <string id="index_winget_info">
+        <![CDATA[Schnelle und bequeme Installation mit dem Befehl winget]]>
+    </string>
+    <string id="index_winget_command_description">
+        <![CDATA[Die schnelle Installation unter Windows 10 und neueren Versionen erfolgt mit einem einzigen Befehl]]>
+    </string>
+    <string id="index_winget_copy_success">
+        <![CDATA[Der Befehl wurde in die Zwischenablage kopiert! Jetzt müssen Sie ihn nur noch im Terminal (cmd oder PowerShell) ausführen]]>
+    </string>
+    <string id="index_winget_copy_error">
+        <![CDATA[Beim Kopieren des Befehls in die Zwischenablage ist ein Fehler aufgetreten]]>
+    </string>
 </localisation>

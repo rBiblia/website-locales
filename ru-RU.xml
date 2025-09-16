@@ -138,4 +138,16 @@
     <string id="privacy_description">
         <![CDATA[Политика конфиденциальности]]>
     </string>
+    <string id="index_winget_info">
+        <![CDATA[Установите быстро и удобно с помощью команды winget]]>
+    </string>
+    <string id="index_winget_command_description">
+        <![CDATA[Быструю установку в системах Windows 10 и более поздних версиях можно выполнить с помощью одной команды]]>
+    </string>
+    <string id="index_winget_copy_success">
+        <![CDATA[Команда скопирована в буфер обмена! Теперь достаточно запустить ее в терминале (cmd или PowerShell)]]>
+    </string>
+    <string id="index_winget_copy_error">
+        <![CDATA[Произошла ошибка при копировании команды в буфер обмена]]>
+    </string>
 </localisation>

@@ -138,4 +138,16 @@
     <string id="privacy_description">
         <![CDATA[Politique de confidentialité]]>
     </string>
+    <string id="index_winget_info">
+        <![CDATA[Installez rapidement et facilement à l'aide de la commande winget]]>
+    </string>
+    <string id="index_winget_command_description">
+        <![CDATA[Vous pouvez effectuer une installation rapide sous Windows 10 et les versions ultérieures à l'aide d'une seule commande]]>
+    </string>
+    <string id="index_winget_copy_success">
+        <![CDATA[La commande a été copiée dans le presse-papiers ! Il vous suffit maintenant de la lancer dans le terminal (cmd ou PowerShell)]]>
+    </string>
+    <string id="index_winget_copy_error">
+        <![CDATA[Une erreur s'est produite lors de la copie de la commande dans le presse-papiers]]>
+    </string>
 </localisation>

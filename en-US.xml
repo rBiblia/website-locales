@@ -138,4 +138,16 @@
     <string id="privacy_description">
         <![CDATA[Privacy policy]]>
     </string>
+    <string id="index_winget_info">
+        <![CDATA[Install quickly and conveniently using the winget command]]>
+    </string>
+    <string id="index_winget_command_description">
+        <![CDATA[You can perform a quick installation on Windows 10 and newer systems with a single command]]>
+    </string>
+    <string id="index_winget_copy_success">
+        <![CDATA[The command has been copied to the clipboard! Now all you have to do is run it in the terminal (cmd or PowerShell)]]>
+    </string>
+    <string id="index_winget_copy_error">
+        <![CDATA[An error occurred while copying the command to the clipboard]]>
+    </string>
 </localisation>

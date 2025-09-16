@@ -138,4 +138,16 @@
     <string id="privacy_description">
         <![CDATA[Polityka prywatności]]>
     </string>
+    <string id="index_winget_info">
+        <![CDATA[Zainstaluj szybko i wygodnie za pomocą polecenia winget]]>
+    </string>
+    <string id="index_winget_command_description">
+        <![CDATA[Szybką instalację w systemach Windows 10 i nowszych wykonasz za pomocą jednego polecenia]]>
+    </string>
+    <string id="index_winget_copy_success">
+        <![CDATA[Polecenie zostało skopiowane do schowka! Teraz wystarczy, że uruchomisz je w terminalu (cmd lub PowerShell)]]>
+    </string>
+    <string id="index_winget_copy_error">
+        <![CDATA[Wystąpił błąd podczas kopiowania polecenia do schowka]]>
+    </string>
 </localisation>
