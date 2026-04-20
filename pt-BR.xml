@@ -150,4 +150,10 @@
     <string id="index_winget_copy_error">
         <![CDATA[Ocorreu um erro ao copiar o comando para a área de transferência]]>
     </string>
+    <string id="index_web_info">
+        <![CDATA[A versão simplificada ainda está disponível]]>
+    </string>
+    <string id="index_web_description">
+        <![CDATA[Se você ainda precisar usar a versão simplificada da primeira, você a encontrará <web_start>aqui<web_end>. No entanto, lembre-se de que ela será desativada com o tempo.]]>
+    </string>
 </localisation>

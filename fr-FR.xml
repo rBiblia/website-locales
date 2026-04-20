@@ -150,4 +150,10 @@
     <string id="index_winget_copy_error">
         <![CDATA[Une erreur s'est produite lors de la copie de la commande dans le presse-papiers]]>
     </string>
+    <string id="index_web_info">
+        <![CDATA[La version simplifiée est toujours disponible]]>
+    </string>
+    <string id="index_web_description">
+        <![CDATA[Si vous avez toujours besoin d'utiliser la version simplifiée de la première, vous la trouverez <web_start>ici<web_end>. Notez toutefois qu'elle sera désactivée à terme.]]>
+    </string>
 </localisation>

@@ -150,4 +150,10 @@
     <string id="index_winget_copy_error">
         <![CDATA[Beim Kopieren des Befehls in die Zwischenablage ist ein Fehler aufgetreten]]>
     </string>
+    <string id="index_web_info">
+        <![CDATA[Die vereinfachte Version ist weiterhin verfügbar]]>
+    </string>
+    <string id="index_web_description">
+        <![CDATA[Falls du weiterhin die vereinfachte Version der ersten Version nutzen möchtest, findest du sie <web_start>hier<web_end>. Beachte jedoch, dass diese mit der Zeit deaktiviert wird.]]>
+    </string>
 </localisation>

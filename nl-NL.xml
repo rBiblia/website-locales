@@ -150,4 +150,10 @@
     <string id="index_winget_copy_error">
         <![CDATA[Er is een fout opgetreden bij het kopiëren van de opdracht naar het klembord]]>
     </string>
+    <string id="index_web_info">
+        <![CDATA[De vereenvoudigde versie is nog steeds beschikbaar]]>
+    </string>
+    <string id="index_web_description">
+        <![CDATA[Als je nog steeds de vereenvoudigde eerste versie nodig hebt, vind je die <web_start>hier<web_end>. Houd er echter rekening mee dat deze na verloop van tijd wordt uitgeschakeld.]]>
+    </string>
 </localisation>

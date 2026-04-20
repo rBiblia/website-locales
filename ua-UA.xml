@@ -150,4 +150,10 @@
     <string id="index_winget_copy_error">
         <![CDATA[Сталася помилка під час копіювання команди до буфера обміну]]>
     </string>
+    <string id="index_web_info">
+        <![CDATA[Спрощена версія все ще доступна]]>
+    </string>
+    <string id="index_web_description">
+        <![CDATA[Якщо вам все ще потрібна спрощена версія першої, ви знайдете її <web_start>тут<web_end>. Однак слід пам’ятати, що з часом її буде вимкнено.]]>
+    </string>
 </localisation>

@@ -94,10 +94,10 @@
         <![CDATA[Pomóż mi przetłumaczyć <website_start>tę stronę<website_end> oraz <locales_start>pozostałe zasoby językowe<locales_end> dla programu]]>
     </string>
     <string id="index_link_web">
-        <![CDATA[Pokaż wersję on-line]]>
+        <![CDATA[Zobacz wersję on-line]]>
     </string>
     <string id="index_web_release">
-        <![CDATA[Od teraz możesz także korzystać z okrojonej wersji programu w swojej przeglądarce internetowej.]]>
+        <![CDATA[Aplikacja dostępna jest również w nowej wersji stworzonej z myślą o przeglądarkach.]]>
     </string>
     <string id="translations_title">
         <![CDATA[rBiblia - dostępne tłumaczenia w programie]]>
@@ -149,5 +149,11 @@
     </string>
     <string id="index_winget_copy_error">
         <![CDATA[Wystąpił błąd podczas kopiowania polecenia do schowka]]>
+    </string>
+    <string id="index_web_info">
+        <![CDATA[Uproszczona wersja wciąż jest jeszcze dostępna]]>
+    </string>
+    <string id="index_web_description">
+        <![CDATA[Jeśli wciąż potrzebujesz skorzystać z uproszczonej wersji pierwszej, znajdziesz ją <web_start>tutaj<web_end>. Należy jednak pamiętać, że z czasem zostanie wyłączona.]]>
     </string>
 </localisation>
